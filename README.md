@@ -1,8 +1,7 @@
 # SkinSense Product Ingredient Classifier
 
 ### Overview
-This notebook is a logic-only prototype tool for classifying skincare products—especially for people with eczema or damaged skin barriers. It estimates whether a formula is mostly a humectant, emollient, or occlusive, or a blend. Users can paste ingredients to analyze.
-
+This notebook is a logic-only prototype tool for classifying skincare products—especially for people with eczema or damaged skin barriers. It estimates whether a formula is mostly a humectant, emollient, or occlusive, or a blend.  
 ### Purpose
 The goal is to help users quickly interpret skincare formulas without relying on marketing claims. It supports sensitive-skin users and researchers exploring ingredient behavior.
 
